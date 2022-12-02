@@ -15,7 +15,7 @@
           My Profile
         </q-toolbar-title>
 
-        <div>06xxxxxxxx</div>
+        <div>12</div>
       </q-toolbar>
     </q-header>
 
