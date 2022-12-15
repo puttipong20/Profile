@@ -15,7 +15,7 @@
           My Profile
         </q-toolbar-title>
 
-        <div>12</div>
+        <div>AGE 21 year old</div>
       </q-toolbar>
     </q-header>
 
@@ -91,6 +91,12 @@ const linksList = [
     caption: 'Community Quasar projects',
     icon: 'favorite',
     link: 'https://awesome.quasar.dev'
+  },
+  {
+    title: 'Quasar',
+    caption: 'Test',
+    icon: 'school',
+    link: '/MyFrom'
   }
 ]
 
