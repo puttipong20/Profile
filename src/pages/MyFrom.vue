@@ -102,7 +102,7 @@ export default {
     },
     validatePassword (password) {
       // Test length
-      this.ValidPassword.length = this.FormState.password.value.length >= 12
+      this.ValidPassword.length = this.FormState.password.value.length >= 8
 
       // Test capital
       this.ValidPassword.capital = /^(?=.*[A-Z]).*$/.test(password)
